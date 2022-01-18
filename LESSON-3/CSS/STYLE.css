@@ -1,0 +1,169 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.one {
+    background-image: url( https://startbootstrap.github.io/startbootstrap-stylish-portfolio/assets/img/bg-masthead.jpg);
+background-position: center;
+background-size: cover;
+text-align: center;
+padding: 13rem 0;
+}
+
+.one h1{
+color: #212529;
+font-size: 88px;
+}
+
+.one h3{
+    color: #212529;
+    font-size: 28px;
+    margin-bottom: 55px;
+}
+
+.one a{
+    background-color: #1d809f;
+    font-size: 16px;
+    padding: 20px 40px;
+    color: #FFFF;
+    text-decoration: none;
+    border-radius: 4px;
+}
+
+.two{
+text-align: center;
+padding: 5rem 0;
+
+}
+.two h2{
+color: #212529;
+font-size: 32px;
+}
+
+.two p{
+    color: #212529;
+    font-size: 20px;
+    margin: 8px 0 55px;
+
+}
+
+.two .btn{
+    background-color: #212529;
+    font-size: 16px;
+    padding: 20px 40px;
+    color: #FFFF;
+    text-decoration: none;
+    border-radius: 4px;
+}
+
+.third{
+background-color: #1d809f;
+color: #FFFF;
+padding: 120px 0px;
+text-align: center;
+}
+
+.third h3{
+    font-size: 16px;
+    color: #ecb807;
+}
+
+.third h2{
+    font-size: 48px;
+    color: #FFFF;
+    margin: 0 0 48px;
+}
+
+.four{
+    background-image: url(https://startbootstrap.github.io/startbootstrap-stylish-portfolio/assets/img/bg-callout.jpg);
+background-position: center;
+background-size: cover;
+padding: 12rem 0;
+text-align: center;
+}
+
+.four h2{
+    color: #212529;
+    font-size: 56px;
+    margin: 20px 0px 60px;
+}
+
+.four a{
+    background-color: #1d809f;
+    font-size: 16px;
+    padding: 20px 40px;
+    color: #FFFF;
+    text-decoration: none;
+    border-radius: 4px;
+}
+
+.fifth{
+    padding: 5rem 0;
+    overflow: hidden;
+}
+.fifth .all{
+    width: 80%;
+margin: 0 auto;
+}
+.fifth .box{
+    float: left;
+    width: 50%;
+   position: relative;
+
+}
+
+.fifth .box .box-text{
+    position: absolute;
+    left: 15px;
+    bottom: 15px;
+    color: #FFFF;
+}
+
+.fifth .box img{
+width: 100%;
+}
+
+.fifth .fifth-text{
+    text-align: center;
+}
+
+.fifth-text{
+    font-size: 18px;
+    color: #ecb807;
+}
+.fifth-text h2{
+font-size: 3rem;
+color: #212529;
+}
+
+.sixth{
+    background-color: #1d809f;
+    text-align: center;
+    padding: 5rem 0;
+}
+
+.sixth h2{
+    font-size: 32px;
+    color: #FFFF;
+    margin-bottom: 24px;
+    margin: 40px;
+}
+
+.sixth a{
+    font-size: 16px;
+    padding: 20px 40px;
+    border-radius: 4px;
+    color: #FFFF;
+    background-color: #212529;
+    text-decoration: none;
+}
+
+.sixth .btn1{
+    color: #212529;
+background-color: #FFFF;
+margin-right: 24px;
+
+}
